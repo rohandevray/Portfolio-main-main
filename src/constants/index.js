@@ -59,7 +59,7 @@ import {
       company_name: "Delhi Public School, Bokaro Steel City, Jharkhand",
       icon: kautilya,
       iconBg: "#FFFF",
-      date: "2018 - 2019",
+      date: "2017 - 2019",
       points: [
         "CBSE 12th - 91.6%",
       ],
